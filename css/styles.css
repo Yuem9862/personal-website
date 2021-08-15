@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  color: #325288;
+  color: #3D8181;
 }
 
 p {
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-  color: #325288;
+  color: #95C2C2;
 }
 
 hr {
@@ -46,12 +46,12 @@ hr {
 }
 
 .contact-button {
-  background: #F0E4D7;
-  background-image: -webkit-linear-gradient(top, #F0E4D7, #FFB6B9);
-  background-image: -moz-linear-gradient(top, #F0E4D7, #FFB6B9);
-  background-image: -ms-linear-gradient(top, #F0E4D7, #FFB6B9);
-  background-image: -o-linear-gradient(top, #F0E4D7, #FFB6B9);
-  background-image: linear-gradient(to bottom, #F0E4D7, #FFB6B9);
+  background: #FFDFC4;
+  background-image: -webkit-linear-gradient(top, #FFDFC4, #FFB6B9);
+  background-image: -moz-linear-gradient(top, #FFDFC4, #FFB6B9);
+  background-image: -ms-linear-gradient(top, #FFDFC4, #FFB6B9);
+  background-image: -o-linear-gradient(top, #FFDFC4, #FFB6B9);
+  background-image: linear-gradient(to bottom, #FFDFC4, #FFB6B9);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
@@ -63,12 +63,12 @@ hr {
 }
 
 .contact-button:hover {
-  background: #315B96;
-  background-image: -webkit-linear-gradient(top, #315B96, #EDF6E5);
-  background-image: -moz-linear-gradient(top, #315B96, #EDF6E5);
-  background-image: -ms-linear-gradient(top, #315B96, #EDF6E5);
-  background-image: -o-linear-gradient(top, #315B96, #EDF6E5);
-  background-image: linear-gradient(to bottom, #315B96, #EDF6E5);
+  background: #95C2C2;
+  background-image: -webkit-linear-gradient(top, #95C2C2, #EDF6E5);
+  background-image: -moz-linear-gradient(top, #95C2C2, #EDF6E5);
+  background-image: -ms-linear-gradient(top, #95C2C2, #EDF6E5);
+  background-image: -o-linear-gradient(top, #95C2C2, #EDF6E5);
+  background-image: linear-gradient(to bottom, #95C2C2, #EDF6E5);
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ hr {
   margin-bottom: 30px;
 }
 
-/*.flaticon-attribute {visibility: hidden;}*/
+
 .skills {
   margin: auto;
   padding: 50px 0;
@@ -123,8 +123,13 @@ hr {
 
 .copyright{
   font-size:0.75rem;
-  background-color: #325288;
+  background-color: #95C2C2;
   margin-top: 80px;
   padding: 10px 0;
   color: white;
+}
+
+.copyright-Yuemin{
+display:inline-block;
+width: 500px;
 }
